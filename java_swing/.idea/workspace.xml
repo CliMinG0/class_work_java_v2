@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2dd3aade-c90c-4124-b689-c05294cf5c46" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lotto/ch02/LottoFrame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lotto/ch02/LottoRandomNumber.java" afterDir="false" />
+    <list default="true" id="2dd3aade-c90c-4124-b689-c05294cf5c46" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/images/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/backgroundMap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/palyer1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/palyer2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -24,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "CliMinG0"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/CliMinG0/class_work_java_v2.git",
+    "accountId": "f96377ae-3606-4ae9-ab9e-01ca1226f52b"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -34,19 +48,25 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.GameFrameMainTest.executor": "Run",
     "Application.LottoFrame.executor": "Run",
     "Application.LottoRandomNumber.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/class_work_space_java/java_swing/src/lotto",
+    "last_opened_file_path": "C:/class_work_space_java/java_swing/images",
     "onboarding.tips.debug.path": "C:/class_work_space_java/java_swing/src/Main.java"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\class_work_space_java\java_swing\images" />
       <recent name="C:\class_work_space_java\java_swing\src\lotto" />
       <recent name="C:\class_work_space_java\java_swing\src\lotto\ch02" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\class_work_space_java\java_swing\images" />
+      <recent name="C:\class_work_space_java\java_swing\player2" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="lotto.ch03" />
@@ -61,7 +81,20 @@
       <option name="presentableId" value="Default" />
       <updated>1745971660499</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1745986357748</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1745986357748</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
