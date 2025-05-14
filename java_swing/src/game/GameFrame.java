@@ -42,7 +42,7 @@ public class GameFrame extends JFrame implements KeyListener {
 
         try {
             backgroundImage = ImageIO.read(new File("images/backgroundMap.png"));
-            player1 = ImageIO.read(new File("images/palyer1.png"));
+            player1 = ImageIO.read(new File("images/playerR.png"));
             player2 = ImageIO.read(new File("images/palyer2.png"));
             //todo player 이미지도 올려야함
         } catch (IOException e) {

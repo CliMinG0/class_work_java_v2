@@ -5,11 +5,75 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2dd3aade-c90c-4124-b689-c05294cf5c46" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/images/background.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/backgroundMap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/palyer1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/palyer2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lombok.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/playerR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/backgroundMap.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/backgroundMapService.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bomb.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bubble.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/bubbled.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemyL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/enemyR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/playerL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/playerLDie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/playerR.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/playerRDie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/test.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/game/BackgroundBubbleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/game/BackgroundPlayerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/game/Bubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/game/BubbleFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/game/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/game/Moveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/game/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/game/PlayerWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test01/BubbleFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test01/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test01/Moveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test01/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test02/BubbleFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test02/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test02/Moveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test02/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test03/BackgroundPlayerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test03/BubbleFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test03/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test03/Moveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test03/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test04/BackgroundPlayerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test04/Bubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test04/BubbleFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test04/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test04/Moveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test04/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test05/BackgroundPlayerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test05/Bubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test05/BubbleFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test05/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test05/Moveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test05/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test05/PlayerWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test06/BackgroundPlayerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test06/Bubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test06/BubbleFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test06/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test06/Moveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test06/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test06/PlayerWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test07/BackgroundBubbleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test07/BackgroundPlayerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test07/Bubble.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test07/BubbleFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test07/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test07/Moveable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test07/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubble/test07/PlayerWay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/MainTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Nine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_swing.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_swing.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/game/GameFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/game/GameFrame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +83,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -26,21 +92,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "CliMinG0"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;CliMinG0&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/CliMinG0/class_work_java_v2.git",
-    "accountId": "f96377ae-3606-4ae9-ab9e-01ca1226f52b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/CliMinG0/class_work_java_v2.git&quot;,
+    &quot;accountId&quot;: &quot;f96377ae-3606-4ae9-ab9e-01ca1226f52b&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/bubble/game/Player.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2wQR90qVbVtjS4D9RyUO63k5RXl" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -48,23 +117,35 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BubbleFrame.executor": "Run",
     "Application.GameFrameMainTest.executor": "Run",
     "Application.LottoFrame.executor": "Run",
     "Application.LottoRandomNumber.executor": "Run",
+    "Application.Nine.executor": "Run",
+    "Application.test2.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/class_work_space_java/java_swing/images",
-    "onboarding.tips.debug.path": "C:/class_work_space_java/java_swing/src/Main.java"
+    "last_opened_file_path": "C:/class_work_space_java/java_swing",
+    "onboarding.tips.debug.path": "C:/class_work_space_java/java_swing/src/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\class_work_space_java\java_swing\images" />
-      <recent name="C:\class_work_space_java\java_swing\src\lotto" />
-      <recent name="C:\class_work_space_java\java_swing\src\lotto\ch02" />
+      <recent name="C:\class_work_space_java\java_swing\lib" />
+      <recent name="C:\class_work_space_java\java_swing\src\bubble\game" />
+      <recent name="C:\class_work_space_java\java_swing\src\bubble\test07" />
+      <recent name="C:\class_work_space_java\java_swing\src\bubble\test06" />
+      <recent name="C:\class_work_space_java\java_swing\src\bubble\test05" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\class_work_space_java\java_swing\lib" />
       <recent name="C:\class_work_space_java\java_swing\images" />
       <recent name="C:\class_work_space_java\java_swing\player2" />
     </key>
@@ -89,8 +170,27 @@
       <option name="project" value="LOCAL" />
       <updated>1745986357748</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="commit">
+      <option name="closed" value="true" />
+      <created>1745996951287</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1745996951287</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
